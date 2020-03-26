@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://172.26.11.88/",
+  "proxy": "http://3.20.252.186/",
   "dependencies": {
     "await-to-js": "^2.1.1",
     "css-loader": "^3.4.2",
