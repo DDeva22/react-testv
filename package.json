@@ -4,7 +4,7 @@
   "description": "A MERN app that connects viewers to livestream cooking channels",
   "main": "server.js",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bcryptjs": "^2.4.3",
     "bootstrap": "^4.4.1",
     "connect-ensure-login": "^0.1.1",
